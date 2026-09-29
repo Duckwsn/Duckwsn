@@ -289,10 +289,6 @@ Tecnologias e ferramentas que fazem parte dos meus projetos:
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Duckwsn&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Duckwsn&layout=compact&hide_border=true&theme=transparent" />
-
 </div>
 
 <br>
