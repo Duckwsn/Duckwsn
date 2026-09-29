@@ -35,8 +35,6 @@ Atualmente, grande parte do meu trabalho está concentrada no desenvolvimento do
 
 <div align="center">
 
-<img src="./assets/lumio-banner.png" alt="Lumio" width="100%">
-
 <br>
 <br>
 
